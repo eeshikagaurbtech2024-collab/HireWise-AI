@@ -1,0 +1,81 @@
+[
+  {
+    "candidate_id": "C001",
+    "name": "Aarav Mehta",
+    "skills": [
+      "python",
+      "sql",
+      "statistics",
+      "pandas",
+      "excel"
+    ],
+    "experience_years": 1.5,
+    "notes": "Fictional profile"
+  },
+  {
+    "candidate_id": "C002",
+    "name": "Diya Shah",
+    "skills": [
+      "python",
+      "sql",
+      "power bi",
+      "excel",
+      "communication"
+    ],
+    "experience_years": 2.0,
+    "notes": "Fictional profile"
+  },
+  {
+    "candidate_id": "C003",
+    "name": "Kabir Rao",
+    "skills": [
+      "python",
+      "machine learning",
+      "pandas",
+      "statistics",
+      "sql",
+      "power bi"
+    ],
+    "experience_years": 1.0,
+    "notes": "Fictional profile"
+  },
+  {
+    "candidate_id": "C004",
+    "name": "Meera Iyer",
+    "skills": [
+      "excel",
+      "power bi",
+      "tableau",
+      "statistics"
+    ],
+    "experience_years": 3.0,
+    "notes": "Fictional profile"
+  },
+  {
+    "candidate_id": "C005",
+    "name": "Ishaan Kapoor",
+    "skills": [
+      "python",
+      "sql",
+      "pandas",
+      "numpy",
+      "statistics",
+      "excel",
+      "power bi"
+    ],
+    "experience_years": 0.5,
+    "notes": "Fictional profile"
+  },
+  {
+    "candidate_id": "C006",
+    "name": "Sara Khan",
+    "skills": [
+      "sql",
+      "statistics",
+      "excel",
+      "pandas"
+    ],
+    "experience_years": 1.0,
+    "notes": "Fictional profile"
+  }
+]
