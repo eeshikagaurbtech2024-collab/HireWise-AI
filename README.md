@@ -1,4 +1,4 @@
-# HireWise AI — Agentic Recruitment PoC
+# HireWise AI — Agentic Recruitment
 
 ## What it demonstrates
 HireWise AI is a local, explainable proof of concept for recruitment screening. It uses four cooperating software agents:
